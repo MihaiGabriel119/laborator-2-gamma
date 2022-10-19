@@ -19,5 +19,5 @@ document.getElementById("c").innerHTML = "gamma = "+gamma;
 context.clearRect(0, 0, canvas.width, canvas.height);
 context.fillStyle = "#0b1de0";
 context.beginPath();
-context.fillRect(90, 60,evt.beta, 50);
+context.fillRect(90, 60,evt.gamma, 50);
 }
