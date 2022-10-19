@@ -17,7 +17,7 @@ document.getElementById("c").innerHTML = "gamma = "+gamma;
 		var latura_patrat = 50;
 		
 context.clearRect(0, 0, canvas.width, canvas.height);
-context.fillStyle = "#6A0999";
+context.fillStyle = "#0b1de0";
 context.beginPath();
 context.fillRect(90, 60,evt.beta, 50);
 }
